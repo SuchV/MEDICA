@@ -1,1 +1,1 @@
-# MEDICA
+# MEDICA Project
